@@ -5,8 +5,18 @@ repo: uptime # The name of this repository
 sites:
   - name: Notessential
     url: https://notessential.blurry.gay
-  - name: CRSS
+  - name: CRSS Website
     url: https://crss.cc
+  - name: Pridecraft Website
+    url: https://pridecraft.gay
+  - name: CRSS Server (Proxy)
+    check: "tcp-ping"
+    url: crss.cc
+    port: 25565
+  - name: CRSS2 Server
+    check: "tcp-ping"
+    url: 150.136.43.197
+    port: 25795
 
 status-website:
   cname: status.blurry.gay
@@ -20,6 +30,10 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: CRSS
+      href: https://crss.cc
+    - title: Notessential
+      href: https://notessential.blurry.gay
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
