@@ -12,12 +12,15 @@ sites:
     check: "tcp-ping"
     url: 132.145.233.75
     port: 25565
+    icon: https://crss.cc/favicon.ico
   - name: CRSS Server (SMP)
     url: map.crss.cc
+    icon: https://crss.cc/favicon.ico
   - name: CRSS2 Server
     check: "tcp-ping"
     url: 150.136.43.197
     port: 25795
+    icon: https://crss.cc/favicon.ico
 
 status-website:
   cname: status.blurry.gay
