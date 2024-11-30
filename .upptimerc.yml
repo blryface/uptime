@@ -1,6 +1,5 @@
-# Change these first
-owner: blryface # Your GitHub organization or username, where this repository lives
-repo: uptime # The name of this repository
+owner: blryface
+repo: uptime
 
 sites:
   - name: Notessential
@@ -20,7 +19,6 @@ sites:
 
 status-website:
   cname: status.blurry.gay
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -30,10 +28,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: CRSS
-      href: https://crss.cc
-    - title: Notessential
-      href: https://notessential.blurry.gay
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
