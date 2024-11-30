@@ -201,3 +201,9 @@ article .graph {
   opacity: var(--graph-opacity);
   filter: var(--graph-filter);
 }
+::-webkit-scrollbar {
+	width: 1rem;
+}
+* {
+	scrollbar-color: #d60049 #161b1d;
+}
