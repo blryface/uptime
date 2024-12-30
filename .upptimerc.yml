@@ -14,7 +14,9 @@ sites:
     port: 25565
     icon: https://crss.cc/favicon.ico
   - name: CRSS Server (SMP)
-    url: map.crss.cc
+    check: "tcp-ping"
+    url: play.crss.cc
+    port: 25565
     icon: https://crss.cc/favicon.ico
   - name: CRSS2 Server
     check: "tcp-ping"
