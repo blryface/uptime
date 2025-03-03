@@ -20,8 +20,8 @@ sites:
     icon: https://crss.cc/favicon.ico
   - name: CRSS2 Server
     check: "tcp-ping"
-    url: 150.136.43.197
-    port: 25795
+    url: 152.67.9.65
+    port: 25567
     icon: https://crss.cc/favicon.ico
 
 status-website:
