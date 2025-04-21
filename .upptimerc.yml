@@ -18,10 +18,10 @@ sites:
     url: 132.145.233.75
     port: 25565
     icon: https://crss.cc/favicon.ico
-  - name: CRSS2 Server
+  - name: CRSS 3 Server
     check: "tcp-ping"
-    url: 152.67.9.65
-    port: 25567
+    url: 141.147.29.5
+    port: 42069
     icon: https://crss.cc/favicon.ico
 
 status-website:
