@@ -10,18 +10,18 @@ sites:
     url: https://pridecraft.gay
   - name: CRSS Server (Proxy)
     check: "tcp-ping"
-    url: 132.145.233.75
+    url: hu-hom1.n.theclashfruit.me
     port: 25565
     icon: https://crss.cc/favicon.ico
   - name: CRSS Server (SMP)
     check: "tcp-ping"
-    url: 132.145.233.75
+    url: hu-hom1.n.theclashfruit.me
     port: 25565
     icon: https://crss.cc/favicon.ico
   - name: CRSS 3 Server
     check: "tcp-ping"
-    url: 141.147.29.5
-    port: 42069
+    url: hu-hom1.n.theclashfruit.me
+    port: 26069
     icon: https://crss.cc/favicon.ico
 
 status-website:
