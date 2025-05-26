@@ -40,5 +40,9 @@ status-website:
     - title: Notessential
       href: https://notessential.blurry.gay
 
+# Extra stuff Upptime docs fail to tell me where to put
+
+user-agent: blryface/uptime (https://status.blurry.gay/)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
