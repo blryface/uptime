@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/notessential.blurry.gay.ico",
     "slug": "notessential",
     "status": "up",
-    "uptime": "88.96%",
+    "uptime": "88.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.96%",
+    "uptimeYear": "83.23%",
     "time": 536,
-    "timeDay": 599,
-    "timeWeek": 476,
-    "timeMonth": 487,
-    "timeYear": 563,
+    "timeDay": 451,
+    "timeWeek": 458,
+    "timeMonth": 486,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2025-09-13": 280,
       "2025-09-12": 1440,
@@ -77,7 +77,6 @@
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
-      "2025-07-14": 1440,
       "2025-11-18": 95,
       "2026-02-24": 28,
       "2026-04-08": 29,
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/crss.cc.ico",
     "slug": "crss-website",
     "status": "up",
-    "uptime": "48.36%",
+    "uptime": "48.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.66%",
+    "uptimeYear": "18.92%",
     "time": 280,
-    "timeDay": 599,
+    "timeDay": 419,
     "timeWeek": 562,
-    "timeMonth": 531,
-    "timeYear": 234,
+    "timeMonth": 535,
+    "timeYear": 235,
     "dailyMinutesDown": {
       "2026-05-06": 64,
       "2026-05-05": 1440,
@@ -397,8 +396,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2025-07-15": 1440,
-      "2025-07-14": 1440
+      "2025-07-15": 1440
     }
   },
   {
@@ -407,14 +405,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pridecraft.gay.ico",
     "slug": "pridecraft-website",
     "status": "up",
-    "uptime": "39.20%",
+    "uptime": "39.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.66%",
+    "uptimeYear": "18.92%",
     "time": 353,
-    "timeDay": 330,
-    "timeWeek": 326,
+    "timeDay": 315,
+    "timeWeek": 319,
     "timeMonth": 294,
     "timeYear": 359,
     "dailyMinutesDown": {
@@ -713,8 +711,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2025-07-15": 1440,
-      "2025-07-14": 1440
+      "2025-07-15": 1440
     }
   },
   {
@@ -723,13 +720,13 @@
     "icon": "https://crss.cc/favicon.ico",
     "slug": "crss-server-proxy",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.47%",
     "time": 119,
-    "timeDay": 143,
+    "timeDay": 92,
     "timeWeek": 127,
     "timeMonth": 133,
     "timeYear": 118,
@@ -760,8 +757,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.47%",
     "time": 119,
-    "timeDay": 146,
-    "timeWeek": 128,
+    "timeDay": 91,
+    "timeWeek": 127,
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -784,7 +781,7 @@
     "icon": "https://crss.cc/favicon.ico",
     "slug": "crss-3-server",
     "status": "down",
-    "uptime": "12.00%",
+    "uptime": "11.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -795,7 +792,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-13": 209,
+      "2026-07-14": 172,
+      "2026-07-13": 1440,
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
@@ -1158,8 +1156,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
-      "2025-07-15": 1440,
-      "2025-07-14": 1440
+      "2025-07-15": 1440
     }
   }
 ]
