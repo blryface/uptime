@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.20%",
-    "time": 535,
-    "timeDay": 395,
-    "timeWeek": 448,
-    "timeMonth": 452,
-    "timeYear": 568,
+    "uptimeYear": "86.25%",
+    "time": 536,
+    "timeDay": 601,
+    "timeWeek": 451,
+    "timeMonth": 455,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-09-13": 280,
       "2025-09-12": 1440,
@@ -66,7 +66,6 @@
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
-      "2025-07-25": 1440,
       "2025-11-18": 95,
       "2026-02-24": 28,
       "2026-04-08": 29,
@@ -80,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/crss.cc.ico",
     "slug": "crss-website",
     "status": "up",
-    "uptime": "49.38%",
+    "uptime": "49.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.89%",
-    "time": 281,
-    "timeDay": 657,
-    "timeWeek": 573,
-    "timeMonth": 613,
-    "timeYear": 247,
+    "uptimeYear": "21.94%",
+    "time": 280,
+    "timeDay": 390,
+    "timeWeek": 536,
+    "timeMonth": 617,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2026-05-06": 64,
       "2026-05-05": 1440,
@@ -375,8 +374,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   },
   {
@@ -385,15 +383,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pridecraft.gay.ico",
     "slug": "pridecraft-website",
     "status": "up",
-    "uptime": "40.40%",
+    "uptime": "40.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.89%",
+    "uptimeYear": "21.94%",
     "time": 350,
-    "timeDay": 228,
-    "timeWeek": 304,
-    "timeMonth": 298,
+    "timeDay": 206,
+    "timeWeek": 322,
+    "timeMonth": 295,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2026-05-06": 64,
@@ -680,8 +678,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   },
   {
@@ -690,15 +687,15 @@
     "icon": "https://crss.cc/favicon.ico",
     "slug": "crss-server-proxy",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.47%",
-    "time": 120,
-    "timeDay": 150,
-    "timeWeek": 132,
-    "timeMonth": 138,
+    "uptime": "98.59%",
+    "uptimeDay": "81.53%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "98.42%",
+    "time": 119,
+    "timeDay": 0,
+    "timeWeek": 129,
+    "timeMonth": 140,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-08-10": 15,
@@ -713,7 +710,8 @@
       "2026-04-03": 128,
       "2026-04-13": 313,
       "2026-04-12": 48,
-      "2026-07-24": 8
+      "2026-07-25": 194,
+      "2026-07-24": 72
     }
   },
   {
@@ -722,15 +720,15 @@
     "icon": "https://crss.cc/favicon.ico",
     "slug": "crss-server-smp",
     "status": "down",
-    "uptime": "97.65%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "98.47%",
+    "uptime": "97.62%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "98.42%",
     "time": 119,
-    "timeDay": 151,
-    "timeWeek": 132,
-    "timeMonth": 126,
+    "timeDay": 0,
+    "timeWeek": 128,
+    "timeMonth": 127,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2026-01-08": 74,
@@ -744,7 +742,8 @@
       "2026-04-03": 127,
       "2026-04-13": 313,
       "2026-04-12": 47,
-      "2026-07-24": 4
+      "2026-07-25": 194,
+      "2026-07-24": 67
     }
   },
   {
@@ -764,7 +763,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1377,
+      "2026-07-25": 194,
+      "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -1127,8 +1127,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   }
 ]
