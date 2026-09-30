@@ -2,8 +2,6 @@ owner: blryface
 repo: uptime
 
 sites:
-  - name: Notessential
-    url: https://notessential.blurry.gay
   - name: CRSS Website
     url: https://crss.cc
   - name: Pridecraft Website
@@ -20,7 +18,7 @@ sites:
     icon: https://crss.cc/favicon.ico
   - name: CRSS 3 Server
     check: "tcp-ping"
-    url: hu-hom1.n.theclashfruit.me
+    url: de-orcl1.n.theclashfruit.me
     port: 26069
     icon: https://crss.cc/favicon.ico
 
