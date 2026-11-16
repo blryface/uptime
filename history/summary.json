@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/crss.cc.ico",
     "slug": "crss-website",
     "status": "up",
-    "uptime": "57.11%",
+    "uptime": "57.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.38%",
-    "time": 288,
-    "timeDay": 323,
-    "timeWeek": 397,
-    "timeMonth": 408,
+    "uptimeYear": "52.66%",
+    "time": 289,
+    "timeDay": 394,
+    "timeWeek": 402,
+    "timeMonth": 405,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2026-05-06": 64,
@@ -187,7 +187,6 @@
       "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
-      "2025-11-16": 1440,
       "2026-08-13": 1182,
       "2026-08-12": 1440,
       "2026-08-11": 259
@@ -199,15 +198,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pridecraft.gay.ico",
     "slug": "pridecraft-website",
     "status": "up",
-    "uptime": "49.84%",
+    "uptime": "49.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.93%",
-    "time": 359,
-    "timeDay": 293,
-    "timeWeek": 461,
-    "timeMonth": 416,
+    "uptimeYear": "53.20%",
+    "time": 360,
+    "timeDay": 372,
+    "timeWeek": 464,
+    "timeMonth": 417,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2026-05-06": 64,
@@ -380,8 +379,7 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
-      "2025-11-16": 1440
+      "2025-11-17": 1440
     }
   },
   {
@@ -396,8 +394,8 @@
     "uptimeMonth": "95.66%",
     "uptimeYear": "97.99%",
     "time": 119,
-    "timeDay": 90,
-    "timeWeek": 110,
+    "timeDay": 123,
+    "timeWeek": 113,
     "timeMonth": 120,
     "timeYear": 121,
     "dailyMinutesDown": {
@@ -430,8 +428,8 @@
     "uptimeMonth": "95.67%",
     "uptimeYear": "97.99%",
     "time": 119,
-    "timeDay": 90,
-    "timeWeek": 110,
+    "timeDay": 124,
+    "timeWeek": 113,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -458,15 +456,15 @@
     "icon": "https://crss.cc/favicon.ico",
     "slug": "crss-3-server",
     "status": "up",
-    "uptime": "17.41%",
+    "uptime": "17.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.61%",
+    "uptimeYear": "12.88%",
     "time": 120,
-    "timeDay": 89,
-    "timeWeek": 110,
-    "timeMonth": 119,
+    "timeDay": 123,
+    "timeWeek": 113,
+    "timeMonth": 118,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2026-09-30": 317,
@@ -786,8 +784,7 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
-      "2025-11-16": 1440
+      "2025-11-17": 1440
     }
   }
 ]
